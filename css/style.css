@@ -41,6 +41,10 @@ a {
   padding: 200px 0;
 }
 
+.blur {
+  backdrop-filter: blur(3px);
+}
+
 .card img {
   height: 100px;
 }
